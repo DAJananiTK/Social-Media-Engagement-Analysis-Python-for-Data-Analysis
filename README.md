@@ -131,37 +131,6 @@ Visualizations were created using:
 
 ---
 
-## 📷 Project Screenshots
-
-### Dashboard / Visualizations
-
-Add your screenshots here.
-
-Example:
-
-```markdown
-![Scatter Plot](images/scatter_plot.png)
-
-![Correlation Heatmap](images/heatmap.png)
-
-![Interactive Dashboard](images/dashboard.png)
-```
-
----
-
-## 📁 Repository Structure
-
-```text
-├── Social_Media_Analysis.ipynb
-├── social_media_dataset.csv
-├── README.md
-├── images/
-│   ├── scatter_plot.png
-│   ├── heatmap.png
-│   ├── dashboard.png
-```
-
----
 
 ## 🚀 Conclusion
 
@@ -171,8 +140,8 @@ This project demonstrates an end-to-end data analysis workflow using Python, fro
 
 ## 👩‍💻 Author
 
-**Janani Tamilselvan**
+**Janani TK**
 
-GitHub: https://github.com/<your-github-username>
 
-LinkedIn: *(Add your LinkedIn profile link if available.)*
+
+
